@@ -8,11 +8,11 @@ A CHE-110 team project presenting climate information and digital technologies r
 - A comparison of CO₂ emissions by region
 - An interactive renewable-energy scenario
 
-## Technologies and tools
-HTML, CSS, JavaScript, Git and GitHub
+## Technologies and development
+HTML, CSS and JavaScript; built through an AI-assisted vibe-coding workflow.
 
 ## My contribution
-I built the website for our CHE-110 team project, including its interactive sections.
+For the CHE-110 team project, I used a vibe-coding workflow with AI assistance to build the website.
 
 ## Live demo
 https://ecopulse.42web.io/
